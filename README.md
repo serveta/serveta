@@ -11,7 +11,6 @@ I am a Back End junior developer in Java. I also have experience working with PH
 
 <a href="https://www.linkedin.com/in/servet-arslan/" target="blank"><img align="left" alt="LinkedIn" width="30px" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.hackerrank.com/arslannservett" target="blank"><img align="left" alt="HackerRank" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
-<a href="https://www.hackerrank.com/arslannservett" target="blank"><img align="left" alt="HackerRank" width="30px" src="https://skillicons.dev/icons?i=discord"/></a>
 
 <br/><br/>
 
