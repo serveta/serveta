@@ -11,7 +11,7 @@ I am a Back End developer in **Java**. I also have experience working with **PHP
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/servet-arslan](https://www.hackerrank.com/arslannservett)">
+  <a href="https://www.hackerrank.com/arslannservett">
     <img alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/>
   </a>
 </p>
