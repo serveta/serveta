@@ -2,7 +2,7 @@
 
 I am a Back End developer in **Java**. I also have experience working with **PHP**, **SQL**, **Bootstrap**, **HTML**, and **CSS**.
 
-- 🌱 I’m currently improving myself in **Java**.
+- 🌱 I’m currently improving myself in **Java** and **Spring**.
 - 📫 How to reach me: arslannservett@gmail.com
 
 <h2 align="center">Find me on:</h2>
@@ -21,7 +21,7 @@ I am a Back End developer in **Java**. I also have experience working with **PHP
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,php" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php" />
   </a>
 </p>
 
@@ -46,5 +46,5 @@ I am a Back End developer in **Java**. I also have experience working with **PHP
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serveta&theme=dark&show_icons=true) &nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serveta&theme=dark&show_icons=true) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serveta&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
