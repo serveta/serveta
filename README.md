@@ -16,8 +16,9 @@ I am a Back End developer in **Java**. I also have experience working with **PHP
   </a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
-
+<table align="center">
+<tr>
+  <td>
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="#">
@@ -45,6 +46,15 @@ I am a Back End developer in **Java**. I also have experience working with **PHP
     <img src="https://skillicons.dev/icons?i=idea,eclipse,discord,ps" />
   </a>
 </p>
+  </td>
+  <td>
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serveta&theme=dark&show_icons=true) &nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serveta&theme=dark&show_icons=true)
+<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serveta&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
+
+</div>
+</td>
+</tr>
+</table>
